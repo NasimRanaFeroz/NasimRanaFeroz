@@ -37,7 +37,6 @@ Hi there 👋 I'm Nasim. I've been cooking up websites for years with the finest
 <code><img height="25" src="https://cdn.simpleicons.org/firebase/FFCA28" /></code>
 <code><img height="25" src="https://cdn.simpleicons.org/django/092E20" /></code>
 <code><img height="25" src="https://cdn.simpleicons.org/flask/000000" /></code>
-<code><img height="25" src="https://cdn.simpleicons.org/jsonwebtokens/6236FF" /></code>
 - Cloud & DevOps:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
