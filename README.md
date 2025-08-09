@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 -->
 
 Hi there 👋 I'm Nasim. I've been cooking up websites for years with the finest ingredients: A pinch of React, a dash of Node.js, and way too many npm packages. Warning: May contain traces of deprecated dependencies.
+<br />
+
+More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration: none; font-weight: bold;">
+<code>Nasim Rana Feroz</code>
+</a>
 <br /><br />
 
 #### ✨ `Skills & Tools`
