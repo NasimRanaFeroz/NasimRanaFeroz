@@ -31,8 +31,6 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original-wordmark.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></code>
-<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></code>
 - Backend & Database:
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
@@ -53,7 +51,6 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code><img height="25" width="25" src="https://cdn.iconscout.com/icon/free/png-256/render-3622176-3029590.png" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/netlify/00C7B7" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/vercel/000000" /></code>
-<code><img height="25" width="25" src="https://cdn.simpleicons.org/heroku/430098" /></code>
 - AI & Data Science:
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/tensorflow/FF6F00" /></code>
@@ -73,7 +70,6 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code><img height="25" width="25" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/postman/FF6C37" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/jira/0052CC" /></code>
-<code><img height="25" width="25" src="https://cdn.simpleicons.org/canva/00C4CC" /></code>
 
 <br />
 
@@ -82,4 +78,4 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code>📧 feroznasimrana@gmail.com</code>
 </a>
 <br /><br />
-💡 I’m always excited to collaborate on innovative projects, discuss freelance opportunities, or simply geek out about the latest in tech. Whether you have a specific idea in mind or just want to explore possibilities, let’s start a conversation. Coffee chats, code reviews, or creative brainstorming—I’m game for it all!
+💡 I’m always excited to collaborate on innovative projects, discuss freelance opportunities, or simply geek out about the latest in tech. Whether you have a specific idea in mind or just want to explore possibilities, let’s start a conversation. Coffee chats, code reviews, or creative brainstorming - I’m game for it all!
