@@ -26,6 +26,7 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
@@ -43,14 +44,6 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/postgresql/4169E1" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/supabase/3ECF8E" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/firebase/FFCA28" /></code>
-- Cloud & DevOps:
-<code><img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></code>
-<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
-<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></code>
-<code><img height="25" width="25" src="https://cdn.simpleicons.org/cloudflare/F38020" /></code>
-<code><img height="25" width="25" src="https://cdn.iconscout.com/icon/free/png-256/render-3622176-3029590.png" /></code>
-<code><img height="25" width="25" src="https://cdn.simpleicons.org/netlify/00C7B7" /></code>
-<code><img height="25" width="25" src="https://cdn.simpleicons.org/vercel/000000" /></code>
 - AI & Data Science:
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/tensorflow/FF6F00" /></code>
@@ -61,21 +54,32 @@ More About Me 👉 <a href="https://nas-im.onrender.com/" style="text-decoration
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" /></code>
 <code><img height="25" width="25" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4"/></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/opencv/5C3EE8" /></code>
+- Cloud & DevOps:
+<code><img height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></code>
+<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
+<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></code>
+<code><img height="25" width="25" src="https://cdn.simpleicons.org/cloudflare/F38020" /></code>
+<code><img height="25" width="25" src="https://cdn.iconscout.com/icon/free/png-256/render-3622176-3029590.png" /></code>
+<code><img height="25" width="25" src="https://cdn.simpleicons.org/netlify/00C7B7" /></code>
+<code><img height="25" width="25" src="https://cdn.simpleicons.org/vercel/000000" /></code>
 - Dev & Design Tools:
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/jest/C21325" /></code>
-<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
+<code><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" /></code>
 <code><img height="25" width="25" src="https://cdn.simpleicons.org/postman/FF6C37" /></code>
-<code><img height="25" width="25" src="https://cdn.simpleicons.org/jira/0052CC" /></code>
 
 <br />
 
 #### 💬 `Get in touch`
 <a href="mailto:feroznasimrana@gmail.com" style="text-decoration: none;">
 <code>📧 feroznasimrana@gmail.com</code>
+</a>
+<br/>
+<a href="mailto:nasimranaferoz@qq.com" style="text-decoration: none;">
+<code>📧 nasimranaferoz@qq.com</code>
 </a>
 <br /><br />
 💡 I’m always excited to collaborate on innovative projects, discuss freelance opportunities, or simply geek out about the latest in tech. Whether you have a specific idea in mind or just want to explore possibilities, let’s start a conversation. Coffee chats, code reviews, or creative brainstorming - I’m game for it all!
